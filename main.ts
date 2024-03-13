@@ -1,0 +1,10 @@
+let addition:number=2+6;
+console.log(addition);
+let subtraction:number=100-92;
+console.log(subtraction);
+let multiplication:number=2*4;
+console.log(multiplication);
+let division:number=64/8;
+console.log(division);
+let exponentiation:number=2**3;
+console.log(exponentiation);

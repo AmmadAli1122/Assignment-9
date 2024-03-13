@@ -1,0 +1,10 @@
+var addition = 2 + 6;
+console.log(addition);
+var subtraction = 100 - 92;
+console.log(subtraction);
+var multiplication = 2 * 4;
+console.log(multiplication);
+var division = 64 / 8;
+console.log(division);
+var exponentiation = Math.pow(2, 3);
+console.log(exponentiation);
